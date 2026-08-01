@@ -1,4 +1,9 @@
 # Flipper Apps Catalog
+
+
+
+Endless Challenge and Tourist Roam are not fully developed, which may cause system exceptions.
+
 This is a public repository for community developed apps for Flipper Zero. 
 
 This repository hosts app manifests that contain app metadata and build information. This repository doesn't host app source code.
